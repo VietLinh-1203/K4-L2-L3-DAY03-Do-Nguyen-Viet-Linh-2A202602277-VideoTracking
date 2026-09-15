@@ -15,7 +15,7 @@ Ngày: `15/09/2026`
 | Thời gian gán `clip_02` (warm-up) | `31` phút |
 | Thời gian gán `clip_01` | `5` giờ |
 | Số track đã vẽ trong `clip_01` | `8` |
-| Số keyframe trung bình mỗi track | `...` |
+| Số keyframe trung bình mỗi track | `19` |
 
 Ba tình huống khó nhất khi gán clip này, và bạn xử lý thế nào:
 
