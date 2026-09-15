@@ -2,8 +2,8 @@
 
 Chép file này thành `reports/REPORT.md` rồi điền. Giữ nguyên các tiêu đề.
 
-Họ tên / nhóm: `...`
-Ngày: `...`
+Họ tên / nhóm: `Đỗ Nguyễn Việt Linh`
+Ngày: `15/09/2026`
 
 ---
 
@@ -12,8 +12,8 @@ Ngày: `...`
 | Mục | Giá trị |
 | --- | --- |
 | Công cụ | CVAT / khác: `CVAT` |
-| Thời gian gán `clip_02` (warm-up) | `...` phút |
-| Thời gian gán `clip_01` | `...` phút |
+| Thời gian gán `clip_02` (warm-up) | `31` phút |
+| Thời gian gán `clip_01` | `5` giờ |
 | Số track đã vẽ trong `clip_01` | `8` |
 | Số keyframe trung bình mỗi track | `...` |
 
